@@ -1,2 +1,2 @@
 # odin-recipes
-My first recipe website showcasing my new basic HTML skills
+Current project is building a recipe website using the HTML skills i have learnt.
